@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif; 
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #41c1ba;
+    padding: 10px 100px;
+}
+  
+.brand-header {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    height: 70px; 
+    margin-right: 10px;
+}
+
+.brand-name a {
+    font-size: 24px;
+    color: white;
+    letter-spacing: 4px;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.navbar-links {
+    list-style: none;
+    display: flex;
+    gap: 50px;
+}
+
+.navbar-links li {
+    margin-left: 20px;
+}
+
+.navbar-links a {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    transition: color 0.3s ease;
+}
+
+.navbar-links a:hover {
+    color: #365b6d;
+}
+
+
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .navbar-links {
+        width: 100%;
+        margin-top: 10px;
+        justify-content: space-around;
+    }
+
+    .navbar-links li {
+        margin: 5px 0; 
+    }
+}
+
+.hero-header {
+    display: flex;
+    justify-content: space-around;
+    background-color: #41c1ba;
+    padding: 20px 40px;
+}
+
+.header-text {
+    color: white;
+    max-width: 50%;
+    font-size: 24px;
+}
+
+.header-text h2 {
+    margin-bottom: 10px;
+}
+
+.header-text p {
+   font-style: italic;
+}
+
+.header-image img {
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.2);
+}
