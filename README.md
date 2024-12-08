@@ -1,13 +1,13 @@
-# Furrever Cat Cafe Website
+# Furrever Cat Cafe Website (Work in Progress)
 
 ## About
 
 ![Preview](images/preview.png)
 
-This is a website for Erin & Romelio's Furrever Cat Cafe. This contains all the information about our cafe: the location, the menus, the cats, and the motivation for this cat cafe.
+Welcome to Erin & Romelio's Furrever Cat Cafe! This website provides everything you need to know about our cafe, including our location, menu, the adorable cats you can meet, and the heartfelt story behind our mission.
 
-We are doing our best to help more cats that doesn't have home. We want to feed them, love them, care them, and give all our energy for them.
+At Furrever Cat Cafe, we strive to create a loving shelter for cats without homes. Our goal is to feed, care for, and provide them with the love and attention they deserve, dedicating all our energy to making their lives better.
 
 ## Personal Note
 
-This is my personal side project. I started this because of the curriculum of The Odin Project. Hopefully I can apply all the knowledge I gained. I am willing to learn more about web development.
+This is a passion project inspired by The Odin Project curriculum. Through this project, I aim to apply everything I've learned about web development while continuing to grow my skills. I’m eager to learn more and excited to make this project a success!
